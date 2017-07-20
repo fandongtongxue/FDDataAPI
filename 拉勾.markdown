@@ -1,5 +1,5 @@
-## 拉勾
-### 职位列表(GET/json/支持分页)
+## 拉勾 (GET/json/支持分页)
+### 职位列表
 http://www.lagou.com/custom/listmore.json?pageNo=0&pageSize=20
 ### 搜索功能
 http://www.lagou.com/custom/search.json?city=北京&positionName=iOS&pageNo=0&pageSize=20
